@@ -161,7 +161,7 @@ class GeometryMandala:
     turtle.forward(80)
     turtle.fill(False)
 
-    turtle.color("green")
+    turtle.color("grey")
     for i in range(1,40):
         turtle.left(90)
         turtle.forward(80-i*2)
